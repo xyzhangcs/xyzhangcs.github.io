@@ -34,18 +34,18 @@ My research about fault Prediction for storage drives, as one of the key innovat
 
 
 # 📝 Publications 
-* **[DATE]** Xinyan Zhang, Zhipeng Tan, Dan Feng, Qiang He, Ju Wan, Hao Jiang, Ji Zhang, Lihua Yang, and Wenjie Qi. "Multidimensional Features Helping Predict Failures in Production SSD-Based Consumer Storage Systems". In: Proceedings of Design, Automation Test in Europe Conference Exhibition (DATE), 2023.
-* **[DATE]** Xinyan Zhang, Kai Shan, Zhipeng Tan, and Dan Feng. "CSLE: A Cost-sensitive Learning Engine for Disk Failure Prediction in Large Data Centers". In: Proceedings of 2022 Design, Automation Test in Europe Conference Exhibition (DATE), 2022.
-* **[JCSC]** Yuzuo Zhang, Yuanhao Li, Xinyan Zhang, Shijue Zheng. "Prediction Method of NOx from Power Station Boilers Based on Neural Network". Journal of Circuits, Systems and Computers, 2021.
-* **[MSST]** Yanwen Xie, Dan Feng, Fang Wang, Jizhong Han, Xuehai Tang, Xinyan Zhang. "DFPE: Explaining Predictive Models for Disk Failure Prediction". In: Proceedings of the 35th International Conference on Massive Storage Systems and Technology (MSST),2019.
-* **[FGCS]** Gaoxiang Xu, Zhipeng Tan, Dan Feng, Laurence T. Yang, Wei Zhou, Xinyan Zhang, Yang Zhang and Jie Xu. "FvRS: Efficiently identifying performance-critical data for improving performance of big data processing". Future Generation Computer Systems (FGCS), 2019.
-* **[ICCD]** Gaoxiang Xu, Dan Feng, Zhipeng Tan, Yifeng Zhu, Xinyan Zhang, Jie Xu and Xi Shu. "RFPL: A Recovery Friendly Parity Logging Scheme for Reducing Small Write Penalty of SSD RAID". In: Proceedings of the ACM 48th International Conference on Parallel Processing (ICPP),2019.
-* **[ICCD]** Yanwen Xie, Dan Feng, Fang Wang, Xinyan Zhang, Jizhong Han, Xuehai Tang. "OME: An Optimized Modeling Engine for Disk Failure Prediction in Heterogeneous Datacenter". In: Proceedings of the IEEE 36th International Conference on Computer Design (ICCD), 2018.
-* **[ICCD]** Gaoxiang Xu, Zhipeng Tan, Dan Feng, Yifeng Zhu, Xinyan Zhang and Jie Xu. "Cap: Exploiting Data Correlations to Improve the Performance and Endurance of SSD RAID". In: Proceedings of the IEEE 36th International Conference on Computer Design (ICCD), 2018.
-* **[GPC]** Xinyan Zhang, Zhipeng Tan, Meng Li, Yingfei Zheng, and Wei Zhou. "ZooKeeper+: The Optimization of Election Algorithm in Complex Network Circumstance". In: Proceedings of the 11th International Conference in Green, Pervasive, and Cloud Computing (GPC), 2016.
-* **[CTD]** Baoshan Luo, Xinyan Zhang, Xu Wang, and Zhipeng Tan. "Data migration strategy for Hybrid storage". Computer Technology and Development, 2016.
-* **[IJECE]** Xinyan Zhang, Zhipeng Tan, and Shan Fan. "NSBS: Design of a Network Storage Backup System". International Journal of Electronics and Communication Engineering, 2015.
-* **[DCABES]** Baoshan Luo, Xinyan Zhang, and Zhipeng Tan. Metadata Namespace Management of Distributed File System. In: Proceedings of the 14th International Symposium on Distributed Computing and Applications for Business Engineering and Science (DCABES), 2015.
+* **[DATE]** **Xinyan Zhang**, Zhipeng Tan, Dan Feng, Qiang He, Ju Wan, Hao Jiang, Ji Zhang, Lihua Yang, and Wenjie Qi. "Multidimensional Features Helping Predict Failures in Production SSD-Based Consumer Storage Systems". In: Proceedings of Design, Automation Test in Europe Conference Exhibition (DATE), 2023.
+* **[DATE]** **Xinyan Zhang**, Kai Shan, Zhipeng Tan, and Dan Feng. "CSLE: A Cost-sensitive Learning Engine for Disk Failure Prediction in Large Data Centers". In: Proceedings of 2022 Design, Automation Test in Europe Conference Exhibition (DATE), 2022.
+* **[JCSC]** Yuzuo Zhang, Yuanhao Li, **Xinyan Zhang**, Shijue Zheng. "Prediction Method of NOx from Power Station Boilers Based on Neural Network". Journal of Circuits, Systems and Computers, 2021.
+* **[MSST]** Yanwen Xie, Dan Feng, Fang Wang, Jizhong Han, Xuehai Tang, **Xinyan Zhang**. "DFPE: Explaining Predictive Models for Disk Failure Prediction". In: Proceedings of the 35th International Conference on Massive Storage Systems and Technology (MSST),2019.
+* **[FGCS]** Gaoxiang Xu, Zhipeng Tan, Dan Feng, Laurence T. Yang, Wei Zhou, **Xinyan Zhang**, Yang Zhang and Jie Xu. "FvRS: Efficiently identifying performance-critical data for improving performance of big data processing". Future Generation Computer Systems (FGCS), 2019.
+* **[ICCD]** Gaoxiang Xu, Dan Feng, Zhipeng Tan, Yifeng Zhu, **Xinyan Zhang**, Jie Xu and Xi Shu. "RFPL: A Recovery Friendly Parity Logging Scheme for Reducing Small Write Penalty of SSD RAID". In: Proceedings of the ACM 48th International Conference on Parallel Processing (ICPP),2019.
+* **[ICCD]** Yanwen Xie, Dan Feng, Fang Wang, **Xinyan Zhang**, Jizhong Han, Xuehai Tang. "OME: An Optimized Modeling Engine for Disk Failure Prediction in Heterogeneous Datacenter". In: Proceedings of the IEEE 36th International Conference on Computer Design (ICCD), 2018.
+* **[ICCD]** Gaoxiang Xu, Zhipeng Tan, Dan Feng, Yifeng Zhu, **Xinyan Zhang** and Jie Xu. "Cap: Exploiting Data Correlations to Improve the Performance and Endurance of SSD RAID". In: Proceedings of the IEEE 36th International Conference on Computer Design (ICCD), 2018.
+* **[GPC]** **Xinyan Zhang**, Zhipeng Tan, Meng Li, Yingfei Zheng, and Wei Zhou. "ZooKeeper+: The Optimization of Election Algorithm in Complex Network Circumstance". In: Proceedings of the 11th International Conference in Green, Pervasive, and Cloud Computing (GPC), 2016.
+* **[CTD]** Baoshan Luo, **Xinyan Zhang**, Xu Wang, and Zhipeng Tan. "Data migration strategy for Hybrid storage". Computer Technology and Development, 2016.
+* **[IJECE]** **Xinyan Zhang**, Zhipeng Tan, and Shan Fan. "NSBS: Design of a Network Storage Backup System". International Journal of Electronics and Communication Engineering, 2015.
+* **[DCABES]** Baoshan Luo, **Xinyan Zhang**, and Zhipeng Tan. Metadata Namespace Management of Distributed File System. In: Proceedings of the 14th International Symposium on Distributed Computing and Applications for Business Engineering and Science (DCABES), 2015.
 
 
 # 🎖 Honors and Awards
@@ -58,7 +58,7 @@ My research about fault Prediction for storage drives, as one of the key innovat
 * Social Activist, HUST, 2016
 
 # 📖 Professional Services
----
+
 **PC Member at conferences:**
 * ISPA 2024
 * ICIC 2024 and 2023
