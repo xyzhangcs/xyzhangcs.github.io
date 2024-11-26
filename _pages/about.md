@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨🏻‍💻 About Me
-I received my Ph.D. degree (advised by Prof. Dan Feng) and M.S degree (advised by Prof. ZhiPeng Tan) in Computer System Architecture from the Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology (HUST) in 2024 and 2016, respectively. 
+I received my Ph.D. degree (advised by [Prof. Dan Feng](https://hustdfeng.github.io/)) and M.S degree (advised by [Prof. ZhiPeng Tan](https://msata-lab.github.io/)) in Computer System Architecture from the Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology (HUST) in 2024 and 2016, respectively. 
 I was a visiting Ph.D. student (advised by Prof. Jizhong Han) at the Institute of Information Engineering, Chinese Academy of Sciences (CAS) from 2017-2019. 
 I received the B.S. degree in Software Engineering from the School of Computer, Southwest Minzu University (SMU) in 2012.  
 
