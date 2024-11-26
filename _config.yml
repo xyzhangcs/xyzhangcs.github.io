@@ -24,10 +24,10 @@ author:
   name             : "Xinyan Zhang"
   avatar           : "images/android-chrome-512x512.png"
 #  bio              : "Lorem ipsum College"
-  location         : "Wuha, Hubei, China"
+#  location         : "Wuha, Hubei, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=vX-prMMAAAAJ"
 #  email            : "Lorem@ipsum.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
