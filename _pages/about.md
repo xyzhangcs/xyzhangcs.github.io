@@ -24,7 +24,7 @@ My research interests encompass the following areas: system reliability and cons
 I have participated in multiple national-level projects, including the Science Fund for Creative Research Groups and the Key Program of the National Natural Science Foundation of China (NSFC), the National Defense Pre-Research Foundation of China, the Chinese Defence Advance Research Program of Science and Technology, China, and the major project of the National Social Science Fund of China.
 As a core technical member, I have also participated in 10+ research projects collaborating with important government agencies and enterprises such as the Cyberspace Administration of China, Huawei, Honor, China Shipbuilding Industry Corporation, and Hikvision.
 
-Meanwhile, as a core technical member, I achieved the commercialization of research outcomes related to disk failure prediction, generating over one million yuan in economic benefits.
+Meanwhile, as a key technical personnel, the successful commercialization of research outcomes related to hard disk failure prediction was achieved, generating economic benefits exceeding one million yuan.
 
 My research about fault Prediction for storage drives, as one of the key innovations in the project "Key Technologies and Applications for Efficient and Reliable Mass Data Storage Systems", was awarded the Second Prize of the National Science and Technology Progress Award in 2023.
 
@@ -34,30 +34,55 @@ My research about fault Prediction for storage drives, as one of the key innovat
 
 
 # 📝 Publications 
+* **[DATE]** Xinyan Zhang, Zhipeng Tan, Dan Feng, Qiang He, Ju Wan, Hao Jiang, Ji Zhang, Lihua Yang, and Wenjie Qi. "Multidimensional Features Helping Predict Failures in Production SSD-Based Consumer Storage Systems". In: Proceedings of Design, Automation Test in Europe Conference Exhibition (DATE), 2023.
+* **[DATE]** Xinyan Zhang, Kai Shan, Zhipeng Tan, and Dan Feng. "CSLE: A Cost-sensitive Learning Engine for Disk Failure Prediction in Large Data Centers". In: Proceedings of 2022 Design, Automation Test in Europe Conference Exhibition (DATE), 2022.
+* **[JCSC]** Yuzuo Zhang, Yuanhao Li, Xinyan Zhang, Shijue Zheng. "Prediction Method of NOx from Power Station Boilers Based on Neural Network". Journal of Circuits, Systems and Computers, 2021.
+* **[MSST]** Yanwen Xie, Dan Feng, Fang Wang, Jizhong Han, Xuehai Tang, Xinyan Zhang. "DFPE: Explaining Predictive Models for Disk Failure Prediction". In: Proceedings of the 35th International Conference on Massive Storage Systems and Technology (MSST),2019.
+* **[FGCS]** Gaoxiang Xu, Zhipeng Tan, Dan Feng, Laurence T. Yang, Wei Zhou, Xinyan Zhang, Yang Zhang and Jie Xu. "FvRS: Efficiently identifying performance-critical data for improving performance of big data processing". Future Generation Computer Systems (FGCS), 2019.
+* **[ICCD]** Gaoxiang Xu, Dan Feng, Zhipeng Tan, Yifeng Zhu, Xinyan Zhang, Jie Xu and Xi Shu. "RFPL: A Recovery Friendly Parity Logging Scheme for Reducing Small Write Penalty of SSD RAID". In: Proceedings of the ACM 48th International Conference on Parallel Processing (ICPP),2019.
+* **[ICCD]** Yanwen Xie, Dan Feng, Fang Wang, Xinyan Zhang, Jizhong Han, Xuehai Tang. "OME: An Optimized Modeling Engine for Disk Failure Prediction in Heterogeneous Datacenter". In: Proceedings of the IEEE 36th International Conference on Computer Design (ICCD), 2018.
+* **[ICCD]** Gaoxiang Xu, Zhipeng Tan, Dan Feng, Yifeng Zhu, Xinyan Zhang and Jie Xu. "Cap: Exploiting Data Correlations to Improve the Performance and Endurance of SSD RAID". In: Proceedings of the IEEE 36th International Conference on Computer Design (ICCD), 2018.
+* **[GPC]** Xinyan Zhang, Zhipeng Tan, Meng Li, Yingfei Zheng, and Wei Zhou. "ZooKeeper+: The Optimization of Election Algorithm in Complex Network Circumstance". In: Proceedings of the 11th International Conference in Green, Pervasive, and Cloud Computing (GPC), 2016.
+* **[CTD]** Baoshan Luo, Xinyan Zhang, Xu Wang, and Zhipeng Tan. "Data migration strategy for Hybrid storage". Computer Technology and Development, 2016.
+* **[IJECE]** Xinyan Zhang, Zhipeng Tan, and Shan Fan. "NSBS: Design of a Network Storage Backup System". International Journal of Electronics and Communication Engineering, 2015.
+* **[DCABES]** Baoshan Luo, Xinyan Zhang, and Zhipeng Tan. Metadata Namespace Management of Distributed File System. In: Proceedings of the 14th International Symposium on Distributed Computing and Applications for Business Engineering and Science (DCABES), 2015.
 
----
-
-* **[DATE]** Xinyan Zhang, Zhipeng Tan, Dan Feng, Qiang He, Ju Wan, Jiang Hao, Ji Zhang, Lihua Yang, Wenjie Qi, "[Multidimensional Features Helping Predict Failures in Production SSD-Based Consumer Storage Systems](https://pfzuo.github.io/images/sosp24-Aceso.pdf)", Proceedings of the Design, Automation & Test in Europe Conference & Exhibition (DATE), 2023.
-
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+* Top 10 Presentations, DSAL, 2022
+* Student Scholarship (Grade 2), WNLO, 2021 - 2022
+* Excellent PhD Academic Scholarship (Grade 1), HUST, 2019 - 2021
+* Research Star Award, DSAL, 2017 - 2019
+* PhD Academic Scholarship (Grade 1), HSUT, 2016 - 2019
+* Social Activist, HUST, 2016
 
 # 📖 Professional Services
-1. PC member in ISPA'24, ICIC'24, ICIC'23 and ICA3PP'23.  
-1. Journal Reviewer in the HaSS, IEEE Transactions on Reliability, FITEE. 
+---
+**PC Member at conferences:**
+* ISPA 2024
+* ICIC 2024 and 2023
+
+**Reviewer for Journals:**
+* Journal of Hardware and Systems Security (HaSS)
+* IEEE Transactions on Reliability
+* Frontiers of Information Technology & Electronic Engineering (FITEE)
+
+**Volunteer Service**
+* Chair of the Student Union of Data Storage and Application Lab, 2016 - 2018
+
+**Teaching Assistant:**
+* Computer System & Data Structure Practice, SES@HUST, 2016 - 2017
+
 
 # 💬 Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+ 
+|04/2023|"Multidimensional Features Helping Predict Failures in Production SSD-Based Consumer Storage Systems". Paper Presentation in the 2022 Design, Automation Test in Europe Conference Exhibition (DATE'23). |Belgium, Antwerp
+|03/2022|"CSLE: A Cost-sensitive Learning Engine for Disk Failure Prediction in Large Data Centers". Paper Presentation in the 2022 Design, Automation Test in Europe Conference Exhibition (DATE'22). |Belgium, Antwerp (Virtual Meeting)
+|05/2016|"ZooKeeper+: The Optimization of Election Algorithm in Complex Network Circumstance". Paper Presentation in the 11th International Conference in Green, Pervasive, and Cloud Computing (GPC 2016). |Xi'an, China
+|11/2015|"ZGroupDRM: Group-Based Dynamic Resource Management Model in Wireless Network". Paper Presentation in the 15th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP). |Zhangjiajie, China
+|08/2015|"Metadata Namespace Management of Distributed File System". Paper Presentation in the 14th International Symposium on Distributed Computing and Applications for Business Engineering and Science (DCABES). |Wuxi, China
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+<!-- # 💻 Internships -->
+
