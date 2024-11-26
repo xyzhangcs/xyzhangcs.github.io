@@ -63,7 +63,7 @@ My research about fault Prediction for storage drives, as one of the key innovat
 * PhD Academic Scholarship (Grade 1), HSUT, 2016 - 2019
 * Social Activist, HUST, 2016
 
-# 📖 Professional Services
+# 🌠 Professional Services
 
 **PC Member at conferences:**
 * ISPA 2024
