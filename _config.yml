@@ -161,3 +161,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  entity_output: as_char
