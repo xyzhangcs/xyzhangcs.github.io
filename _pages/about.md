@@ -27,7 +27,7 @@ Meanwhile, as a core technical member, I achieved the commercialization of resea
 I have published 10+ refereed papers in major conferences and journals in the field of computer systems and architecture, including FGCS, JCST, DATE, ICCD, ICPP, and MSST, and have participated in the application of 10+ Chinese invention patents, all of which have been granted.
 
 # 🔥 News
-# - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *202x.09*: &nbsp;🎉🎉 One paper gets accepted in xxx'24.
 
 
 # 📝 Publications 
