@@ -18,19 +18,19 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
- 
 I received my Ph.D. degree (advised by Prof. Dan Feng) and M.S degree (advised by Prof. ZhiPeng Tan) in Computer System Architecture from the Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology (HUST) in 2024 and 2016, respectively. 
 I was a visiting Ph.D. student (advised by Prof. Jizhong Han) at the Institute of Information Engineering, Chinese Academy of Sciences (CAS) from 2017-2019. 
 I received the B.S. degree in Software Engineering from the School of Computer, Southwest Minzu University (SMU) in 2012.  
 
 My research interests encompass the following areas: system reliability and consistency assurance, predictive maintenance of storage drives, AI applications for systems, and distributed systems. 
-I have published 10+ refereed papers in major conferences and journals in the field of computer systems and architecture, including FGCS, JCST, DATE, ICCD, ICPP, and MSST, and have participated in the application of 10+ Chinese invention patents, all of which have been granted. 
+I have published 10+ refereed papers in major conferences and journals in the field of computer systems and architecture, including FGCS, JCST, DATE, ICCD, ICPP, and MSST, etc. 
 
 I have participated in multiple national-level projects, including the Science Fund for Creative Research Groups and the Key Program of the National Natural Science Foundation of China (NSFC), the National Defense Pre-Research Foundation of China, the Chinese Defence Advance Research Program of Science and Technology, China, and the major project of the National Social Science Fund of China. 
 
 As a core technical member, I have also participated in 10+ research projects collaborating with important government agencies and enterprises such as the Cyberspace Administration of China, Huawei, Honor, China Shipbuilding Industry Corporation, and Hikvision. 
 
-Meanwhile, as a key technical personnel, the successful commercialization of research outcomes related to hard disk failure prediction was achieved, generating economic benefits exceeding one million yuan. 
+Meanwhile, I have participated in the application of 10+ Chinese invention patents, all of which have been granted. 
+As the key technical personnel, the successful commercialization of research outcomes related to hard disk failure prediction was achieved, generating economic benefits exceeding one million yuan. 
 
 My research about fault Prediction for storage drives, as one of the key innovations in the project "Key Technologies and Applications for Efficient and Reliable Mass Data Storage Systems", was awarded the Second Prize of the National Science and Technology Progress Award in 2023.
 
