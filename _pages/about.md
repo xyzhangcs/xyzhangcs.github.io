@@ -32,7 +32,7 @@ As a core technical member, I have also participated in 10+ research projects co
 Meanwhile, I have participated in the application of 10+ Chinese invention patents, all of which have been granted. 
 As the key technical personnel, the successful commercialization of patents outcomes related to disk failure prediction was achieved, generating economic benefits exceeding one million yuan. 
 
-My research about fault Prediction for storage drives, as one of the key innovations in the project "Key Technologies and Applications for Efficient and Reliable Massive Data Storage Systems", was awarded the Second Prize of the National Science and Technology Progress Award in 2023..
+My research about fault Prediction for storage drives, as one of the key innovations in the project "Key Technologies and Applications for Efficient and Reliable Massive Data Storage Systems", was awarded the Second Prize of the National Science and Technology Progress Award in 2023.
 
 
 # 🔥 News
