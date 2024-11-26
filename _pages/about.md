@@ -21,10 +21,12 @@ I received my Ph.D. degree (advised by Prof. Dan Feng) and M.S degree (advised b
 
 My research interests encompass the following areas: system reliability and consistency assurance, predictive maintenance of storage drives, AI applications for systems, and distributed systems.I have published 10+ refereed papers in major conferences and journals in the field of computer systems and architecture, including FGCS, JCST, DATE, ICCD, ICPP, and MSST, and have participated in the application of 10+ Chinese invention patents, all of which have been granted.
 
-My research about fault Prediction for storage drives, as one of the key innovations in the project "Key Technologies and Applications for Efficient and Reliable Mass Data Storage Systems", was awarded the Second Prize of the National Science and Technology Progress Award in 2023.
 I have participated in multiple national-level projects, including the Science Fund for Creative Research Groups and the Key Program of the National Natural Science Foundation of China (NSFC), the National Defense Pre-Research Foundation of China, the Chinese Defence Advance Research Program of Science and Technology, China, and the major project of the National Social Science Fund of China.
 As a core technical member, I have also participated in 10+ research projects collaborating with important government agencies and enterprises such as the Cyberspace Administration of China, Huawei, Honor, China Shipbuilding Industry Corporation, and Hikvision.
+
 Meanwhile, as a core technical member, I achieved the commercialization of research outcomes related to disk failure prediction, generating over one million yuan in economic benefits.
+
+My research about fault Prediction for storage drives, as one of the key innovations in the project "Key Technologies and Applications for Efficient and Reliable Mass Data Storage Systems", was awarded the Second Prize of the National Science and Technology Progress Award in 2023.
 
 
 # 🔥 News
@@ -35,7 +37,7 @@ Meanwhile, as a core technical member, I achieved the commercialization of resea
 
 ---
 
-* **[SOSP]** Zhisheng Hu, Pengfei Zuo, Yizou Chen, Chao Wang, Junliang Hu, Ming-Chang Yang, "[Aceso: Achieving Efficient Fault Tolerance in Memory-Disaggregated Key-Value Stores](https://pfzuo.github.io/images/sosp24-Aceso.pdf)", accepted and to appear in the 30th ACM Symposium on Operating Systems Principles (SOSP), 2024.
+* **[DATE]** Xinyan Zhang, Zhipeng Tan, Dan Feng, Qiang He, Ju Wan, Jiang Hao, Ji Zhang, Lihua Yang, Wenjie Qi, "[Multidimensional Features Helping Predict Failures in Production SSD-Based Consumer Storage Systems](https://pfzuo.github.io/images/sosp24-Aceso.pdf)", Proceedings of the Design, Automation & Test in Europe Conference & Exhibition (DATE), 2023.
 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
