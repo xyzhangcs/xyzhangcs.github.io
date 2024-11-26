@@ -19,7 +19,7 @@ redirect_from:
 
 # 👨🏻‍💻 About Me
 I received my Ph.D. degree (advised by [Prof. Dan Feng](https://hustdfeng.github.io/)) and M.S degree (advised by [Prof. ZhiPeng Tan](https://msata-lab.github.io/)) in Computer System Architecture from the Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology (HUST) in 2024 and 2016, respectively. 
-I was a visiting Ph.D. student (advised by Prof. Jizhong Han) at the Institute of Information Engineering, Chinese Academy of Sciences (CAS) from 2017-2019. 
+I was a visiting Ph.D. student (advised by [Prof. Jizhong Han](https://people.ucas.ac.cn/~hjz)) at the Institute of Information Engineering, Chinese Academy of Sciences (CAS) from 2017-2019. 
 I received the B.S. degree in Software Engineering from the School of Computer, Southwest Minzu University (SMU) in 2012.  
 
 My research interests encompass the following areas: system reliability and consistency assurance, predictive maintenance of storage drives, AI applications for systems, and distributed systems. 
