@@ -72,7 +72,7 @@ My research about fault Prediction for storage drives, as one of the key innovat
 **Reviewer for Journals:**
 * Journal of Hardware and Systems Security (HaSS)
 * IEEE Transactions on Reliability
-* Frontiers of Information Technology &amp Electronic Engineering (FITEE)
+* Frontiers of Information Technology \& Electronic Engineering (FITEE)
 
 **Volunteer Service**
 * Chair of the Student Union of Data Storage and Application Lab, 2016 - 2018
