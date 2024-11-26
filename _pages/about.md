@@ -78,7 +78,7 @@ My research about fault Prediction for storage drives, as one of the key innovat
 * Chair of the Student Union of Data Storage and Application Lab, 2016 - 2018
 
 **Teaching Assistant:**
-* Computer System & Data Structure Practice, SES@HUST, 2016 - 2017
+* Computer System and Data Structure Practice, SES@HUST, 2016 - 2017
 
 
 # 💬 Talks
