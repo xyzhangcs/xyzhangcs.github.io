@@ -26,7 +26,7 @@ My research interests encompass the following areas: system reliability and cons
 I have published 10+ refereed papers in major conferences and journals in the field of computer systems and architecture, including FGCS, JCST, DATE, ICCD, ICPP, and MSST, etc. 
 
 I have participated in multiple national-level projects, including the Science Fund for Creative Research Groups and the Key Program of the National Natural Science Foundation of China (NSFC), the National Defense Pre-Research Foundation of China, the Chinese Defence Advance Research Program of Science and Technology, China, and the major project of the National Social Science Fund of China. 
-And I contributed to the drafting of GB/T 37939-2019 'Information Security Technology - Security Techniques Requirements for Network Storage'.
+And I contributed to the drafting of GB/T 37939-2019 "Information Security Technology - Security Techniques Requirements for Network Storage".
 
 As a core technical member, I have also participated in 10+ research projects collaborating with important government agencies and enterprises such as the Cyberspace Administration of China, Huawei, Honor, Hikvision, and China Shipbuilding Industry Corporation. 
 
