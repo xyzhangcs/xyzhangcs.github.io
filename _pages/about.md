@@ -62,7 +62,7 @@ My research about failure prediction for storage drives, as one of the key innov
 * Student Scholarship (Grade 2), WNLO, 2021 - 2022
 * Excellent PhD Academic Scholarship (Grade 1), HUST, 2019 - 2021
 * Research Star Award, DSAL, 2017 - 2019
-* PhD Academic Scholarship (Grade 1), HSUT, 2016 - 2019
+* PhD Academic Scholarship (Grade 1), HUST, 2016 - 2019
 * Social Activist, HUST, 2016
 
 # 🌠 Professional Services
