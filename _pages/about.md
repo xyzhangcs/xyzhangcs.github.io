@@ -88,7 +88,7 @@ My research about failure prediction for storage drives, as one of the key innov
 |04/2023|"Multidimensional Features Helping Predict Failures in Production SSD-Based Consumer Storage Systems". Paper Presentation in the 2022 Design, Automation & Test in Europe Conference Exhibition (DATE'23). |Belgium, Antwerp
 |03/2022|"CSLE: A Cost-sensitive Learning Engine for Disk Failure Prediction in Large Data Centers". Paper Presentation in the 2022 Design, Automation & Test in Europe Conference Exhibition (DATE'22). |Belgium, Antwerp (Virtual Meeting)
 |05/2016|"ZooKeeper+: The Optimization of Election Algorithm in Complex Network Circumstance". Paper Presentation in the 11th International Conference in Green, Pervasive, and Cloud Computing (GPC 2016). |Xi'an, China
-|11/2015|"ZGroupDRM: Group-Based Dynamic Resource Management Model in Wireless Network". Paper Presentation in the 15th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2015). |Zhangjiajie, China
+|11/2015|"GroupDRM: Group-Based Dynamic Resource Management Model in Wireless Network". Paper Presentation in the 15th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2015). |Zhangjiajie, China
 |08/2015|"Metadata Namespace Management of Distributed File System". Paper Presentation in the 14th International Symposium on Distributed Computing and Applications for Business Engineering and Science (DCABES 2015). |Wuxi, China
 
 
