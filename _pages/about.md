@@ -85,8 +85,8 @@ My research about failure prediction for storage drives, as one of the key innov
 # 🌠 Professional Services
 
 **PC Member at Conferences:**
-* ISPA 2024
-* ICIC 2024 and 2023
+* IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA) 2024
+* International Conference on Intelligent Computing (ICIC) 2024 and 2023
 
 **Reviewer for Journals:**
 * Journal of Hardware and Systems Security (HaSS)
