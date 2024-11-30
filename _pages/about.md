@@ -57,7 +57,7 @@ My research about failure prediction for storage drives, as one of the key innov
 * **[IJECE]** **Xinyan Zhang**, Zhipeng Tan, and Shan Fan. "NSBS: Design of a Network Storage Backup System". International Journal of Electronics and Communication Engineering, 2015.
 * **[DCABES]** Baoshan Luo, **Xinyan Zhang**, and Zhipeng Tan. Metadata Namespace Management of Distributed File System. In: Proceedings of the 14th International Symposium on Distributed Computing and Applications for Business Engineering and Science (DCABES), 2015.
 
-**Chinese invention patents:**
+**Chinese Invention Patents:**
 * **ZL202311553974.8** Zhipeng Tan, Xuanzhi Wang, Dan Feng, Shikai Tan, **Xinyan Zhang**, jinlong Wang, Jin Zhang. 2023.
 * **ZL202211603100.4** Zhipeng Tan, Dan Feng, **Xinyan Zhang**, Ju Wan, Cong Liu. 2022.
 * **ZL202110943053.7** Zhipeng Tan, Dan Feng, Ju wan, **Xinyan Zhang**. 2021.
@@ -70,7 +70,7 @@ My research about failure prediction for storage drives, as one of the key innov
 * **ZL201711113802.3** Zhipeng Tan, Wei Zhou, Dan Feng, Gaoxiang Xu, **Xinyan Zhang**. 2017.
 * **ZL201611032887.8** Zhipeng Tan, Dan Feng, Wei Zhou, Fang Wan, Gaoxiang Xu, **Xinyan Zhang**. 2016.
 
-**software copyright:**
+**Software Copyright:**
 * **2019SR0377744** Dan Feng, Fan Wang, Yanwen Xie, Xinyan Zhang. 2019.
 
 # 🎖 Honors and Awards
