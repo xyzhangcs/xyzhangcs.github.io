@@ -84,7 +84,7 @@ My research about failure prediction for storage drives, as one of the key innov
 
 # 🌠 Professional Services
 
-**PC Member at conferences:**
+**PC Member at Conferences:**
 * ISPA 2024
 * ICIC 2024 and 2023
 
