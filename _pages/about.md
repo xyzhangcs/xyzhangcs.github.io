@@ -41,7 +41,9 @@ My research about failure prediction for storage drives, as one of the key innov
 * 202x.07: 🎉🎉🎉 
 
 
-# 📝 Publications 
+# 📝 Publications
+
+**Papers:**
 * **[DATE]** **Xinyan Zhang**, Zhipeng Tan, Dan Feng, Qiang He, Ju Wan, Hao Jiang, Ji Zhang, Lihua Yang, and Wenjie Qi. "Multidimensional Features Helping Predict Failures in Production SSD-Based Consumer Storage Systems". In: Proceedings of Design, Automation & Test in Europe Conference Exhibition (DATE), 2023.
 * **[DATE]** **Xinyan Zhang**, Kai Shan, Zhipeng Tan, and Dan Feng. "CSLE: A Cost-sensitive Learning Engine for Disk Failure Prediction in Large Data Centers". In: Proceedings of 2022 Design, Automation & Test in Europe Conference Exhibition (DATE), 2022.
 * **[JCSC]** Yuzuo Zhang, Yuanhao Li, **Xinyan Zhang**, Shijue Zheng. "Prediction Method of NOx from Power Station Boilers Based on Neural Network". Journal of Circuits, Systems and Computers, 2021.
@@ -55,6 +57,21 @@ My research about failure prediction for storage drives, as one of the key innov
 * **[IJECE]** **Xinyan Zhang**, Zhipeng Tan, and Shan Fan. "NSBS: Design of a Network Storage Backup System". International Journal of Electronics and Communication Engineering, 2015.
 * **[DCABES]** Baoshan Luo, **Xinyan Zhang**, and Zhipeng Tan. Metadata Namespace Management of Distributed File System. In: Proceedings of the 14th International Symposium on Distributed Computing and Applications for Business Engineering and Science (DCABES), 2015.
 
+**Chinese invention patents:**
+* **ZL202311553974.8** Zhipeng Tan, Xuanzhi Wang, Dan Feng, Shikai Tan, **Xinyan Zhang**, jinlong Wang, Jin Zhang. 2023.
+* **ZL202211603100.4** Zhipeng Tan, Dan Feng, **Xinyan Zhang**, Ju Wan, Cong Liu. 2022.
+* **ZL202110943053.7** Zhipeng Tan, Dan Feng, Ju wan, **Xinyan Zhang**. 2021.
+* **ZL201910583452.X** Zhipeng Tan, **Xinyan Zhang**, Dan Feng, Fang Wan, Yanwen Xie, Gaoxiang Xu. 2019.
+* **ZL201910530466.5** Dan Feng, Fang Wan, Yanwen Xie, **Xinyan Zhang**. 2019.
+* **ZL201910307587.3** Dan Feng, Fang Wan, Yanwen Xie, **Xinyan Zhang**. 2019.
+* **ZL201811514273.2** Zhipeng Tan, Kai Shan, Dan Feng, **Xinyan Zhang**, Jiaxing Qian, Shiyun Tu. 2018.
+* **ZL201711280482.0** Zhipeng Tan, **Xinyan Zhang**, Chenhua Sun, Zhibin Dou, Naihui Chen. 2017.
+* **ZL201711358322.3** Zhipeng Tan, Gaoxiang Xu, Dan Feng, **Xinyan Zhang**, Yang Zhang, Xin An. 2017.
+* **ZL201711113802.3** Zhipeng Tan, Wei Zhou, Dan Feng, Gaoxiang Xu, **Xinyan Zhang**. 2017.
+* **ZL201611032887.8** Zhipeng Tan, Dan Feng, Wei Zhou, Fang Wan, Gaoxiang Xu, **Xinyan Zhang**. 2016.
+
+**software copyright:**
+* **2019SR0377744** Dan Feng, Fan Wang, Yanwen Xie, Xinyan Zhang. 2019.
 
 # 🎖 Honors and Awards
 
