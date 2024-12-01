@@ -71,7 +71,7 @@ My research about failure prediction for storage drives, as one of the key innov
 * **ZL201611032887.8** Zhipeng Tan, Dan Feng, Wei Zhou, Fang Wan, Gaoxiang Xu, **Xinyan Zhang**. 2016.
 
 **Software Copyright:**
-* **2019SR0377744** Dan Feng, Fan Wang, Yanwen Xie, Xinyan Zhang. 2019.
+* **2019SR0377744** Dan Feng, Fan Wang, Yanwen Xie, **Xinyan Zhang**. 2019.
 
 # 🎖 Honors and Awards
 
