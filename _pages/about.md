@@ -108,6 +108,7 @@ My research about failure prediction for storage drives, as one of the key innov
 |11/2015|"GroupDRM: Group-Based Dynamic Resource Management Model in Wireless Network". Paper Presentation in the 15th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2015). |Zhangjiajie, China
 |08/2015|"Metadata Namespace Management of Distributed File System". Paper Presentation in the 14th International Symposium on Distributed Computing and Applications for Business Engineering and Science (DCABES 2015). |Wuxi, China
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=pd9i878wd5hSvDEbYzOxFOA_A08c-cdrBe1NccL-_ys"></script>
+<!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=pd9i878wd5hSvDEbYzOxFOA_A08c-cdrBe1NccL-_ys"></script> -->
+
 <!-- # 💻 Internships -->
 
