@@ -31,7 +31,7 @@ And I contributed to the drafting of GB/T 37939-2019 "Information Security Techn
 As a core technical member, I have also participated in 10+ research projects collaborating with important government agencies and enterprises such as Office of the Central Cyberspace Administration Affairs Commission, Huawei, Honor, Hikvision, and China Shipbuilding Industry Corporation. 
 
 Meanwhile, I have participated in the application of 10+ Chinese invention patents, all of which have been granted. 
-As the key technical personnel, the successful commercialization of two patents outcomes related to disk failure prediction was achieved, generating economic benefits exceeding one million yuan. 
+As the key technical personnel, the successful commercialization of two patents ([1](https://iat.hust.edu.cn/info/1012/2635.htm),[2](https://iat.hust.edu.cn/info/1012/3041.htm)) outcomes related to disk failure prediction was achieved, generating economic benefits exceeding one million yuan. 
 
 My research about failure prediction for storage drives, as one of the key innovations in the project "Key Technologies and Applications for Efficient and Reliable Massive Data Storage Systems", was awarded the Second Grade of the National Science and Technology Progress Award in 2023.
 
