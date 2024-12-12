@@ -75,7 +75,7 @@ My research about failure prediction for storage drives, as one of the key innov
 
 # 🎖 Honors and Awards
 
-* Top 10 Presentations, DSAL, 2022
+* Top 10 Presentations Awards, DSAL, 2022
 * Student Scholarship (Grade 2), WNLO, 2021 - 2022
 * Excellent PhD Academic Scholarship (Grade 1), HUST, 2019 - 2021
 * Research Star Award, DSAL, 2017 - 2019
@@ -93,11 +93,11 @@ My research about failure prediction for storage drives, as one of the key innov
 * IEEE Transactions on Reliability
 * Frontiers of Information Technology & Electronic Engineering (FITEE)
 
-**Volunteer Service**
-* Chair of the Student Union of Data Storage and Application Lab, 2016 - 2018
-
 **Teaching Assistant:**
 * Computer System & Data Structure Practice, SES@HUST, 2016 - 2017
+
+**Volunteer Service**
+* Chair of the Student Union of Data Storage and Application Lab, 2016 - 2018
 
 
 # 💬 Talks
