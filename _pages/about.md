@@ -91,7 +91,7 @@ My research about failure prediction for storage drives, as one of the key innov
 **Reviewer for Journals:**
 * Journal of Hardware and Systems Security (HaSS)
 * IEEE Transactions on Reliability
-* Frontiers of Information Technology & Electronic Engineering (FITEE)
+* Frontiers of Information Technology & Electronic Engineering (FITEE) (shadow)
 
 **Teaching Assistant:**
 * Computer System & Data Structure Practice, SES@HUST, 2016 - 2017
