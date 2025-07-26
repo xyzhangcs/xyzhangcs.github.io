@@ -44,6 +44,7 @@ My research about failure prediction for storage drives, as one of the key innov
 # 📝 Publications
 
 **Papers:**
+* **[JCST]** **Xinyan Zhang**, Dan Feng, Zhipeng Tan, Yan-Wen Xie, Shao-Feng Zhao, and Ya-Yuan Wei. "LWCM: A Lookahead-Window Constrained Model for Disk Failure  Prediction in Large Data Centers". Journal of Computer Science and Technology (JCST), 2025.
 * **[DATE]** **Xinyan Zhang**, Zhipeng Tan, Dan Feng, Qiang He, Ju Wan, Hao Jiang, Ji Zhang, Lihua Yang, and Wenjie Qi. "Multidimensional Features Helping Predict Failures in Production SSD-Based Consumer Storage Systems". In: Proceedings of Design, Automation & Test in Europe Conference Exhibition (DATE), 2023.
 * **[DATE]** **Xinyan Zhang**, Kai Shan, Zhipeng Tan, and Dan Feng. "CSLE: A Cost-sensitive Learning Engine for Disk Failure Prediction in Large Data Centers". In: Proceedings of Design, Automation & Test in Europe Conference Exhibition (DATE), 2022.
 * **[JCSC]** Yuzuo Zhang, Yuanhao Li, **Xinyan Zhang**, Shijue Zheng. "Prediction Method of NOx from Power Station Boilers Based on Neural Network". Journal of Circuits, Systems and Computers, 2021.
