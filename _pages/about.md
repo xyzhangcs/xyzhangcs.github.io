@@ -23,7 +23,7 @@ I was a visiting Ph.D. student (advised by [Prof. Jizhong Han](https://people.uc
 I received the B.S. degree in Software Engineering from the School of Computer, Southwest Minzu University (SMU) in 2012.
 
 My research interests encompass the following areas: **system reliability, predictive maintenance of storage drives, storage systems, and distributed systems**.
-I have published 10+ refereed papers in major conferences and journals in the field of computer systems and architecture, including FGCS, JCST, DATE, ICCD, ICPP, and MSST, etc.
+I have published 10+ refereed papers in major conferences and journals in the field of computer systems and architecture, including JCST, FGCS, DATE, ICCD, ICPP, and MSST, etc.
 
 I have participated in multiple national-level projects, including the Science Fund for Creative Research Groups and the Key Program of the National Natural Science Foundation of China (NSFC), the National Defense Pre-Research Foundation of China, the Chinese Defence Advance Research Program of Science and Technology, China, and the major project of the National Social Science Fund of China.
 And I contributed to the drafting of GB/T 37939-2019 "Information Security Technology - Security Techniques Requirements for Network Storage".
@@ -59,8 +59,9 @@ My research about failure prediction for storage drives, as one of the key innov
 * **[IJECE]** **Xinyan Zhang**, Zhipeng Tan, and Shan Fan. "NSBS: Design of a Network Storage Backup System". International Journal of Electronics and Communication Engineering, 2015.
 * **[DCABES]** Baoshan Luo, **Xinyan Zhang**, and Zhipeng Tan. Metadata Namespace Management of Distributed File System. In: Proceedings of the 14th International Symposium on Distributed Computing and Applications for Business Engineering and Science (DCABES), 2015.
 
-**Chinese Invention Patents:**
 
+<!--
+Chinese Invention Patents:
 * **ZL202311553974.8** Zhipeng Tan, Xuanzhi Wang, Dan Feng, Shikai Tan, **Xinyan Zhang**, jinlong Wang, Jin Zhang. 2023.
 * **ZL202211603100.4** Zhipeng Tan, Dan Feng, **Xinyan Zhang**, Ju Wan, Cong Liu. 2022.
 * **ZL202110943053.7** Zhipeng Tan, Dan Feng, Ju wan, **Xinyan Zhang**. 2021.
@@ -76,8 +77,9 @@ My research about failure prediction for storage drives, as one of the key innov
 **Software Copyright:**
 
 * **2019SR0377744** Dan Feng, Fan Wang, Yanwen Xie, **Xinyan Zhang**. 2019.
+-->
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 
 * Top 10 Presentations Awards, DSAL, 2022
 * Student Scholarship (Grade 2), WNLO, 2021 - 2022
@@ -108,7 +110,7 @@ My research about failure prediction for storage drives, as one of the key innov
 
 * Chair of the Student Union of Data Storage and Application Lab, 2016 - 2018
 
-# 💬 Talks
+# 🗣️ Talks
 
 |04/2023|"Multidimensional Features Helping Predict Failures in Production SSD-Based Consumer Storage Systems". Paper Presentation in the 2023 Design, Automation & Test in Europe Conference Exhibition (DATE'23). |Belgium, Antwerp
 |03/2022|"CSLE: A Cost-sensitive Learning Engine for Disk Failure Prediction in Large Data Centers". Paper Presentation in the 2022 Design, Automation & Test in Europe Conference Exhibition (DATE'22). |Belgium, Antwerp (Virtual Meeting)
