@@ -37,7 +37,7 @@ My research about failure prediction for storage drives, as one of the key innov
 
 # 🔥 News
 
-<!-- * 202x.09: 🎉🎉 One paper gets accepted in xxx'24. -->
+<!-- * 202x.09: 🎉🎉🎉 One paper gets accepted in xxx'24. -->
 
 * 202x.07: 🎉🎉🎉
 
