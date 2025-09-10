@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👨🏻‍💻 About Me
+# 🎓 About Me
 
 I received my Ph.D. degree (advised by [Prof. Dan Feng](https://hustdfeng.github.io/)) and M.S degree (advised by [Prof. ZhiPeng Tan](https://msata-lab.github.io/)) in Computer Architecture from the [Data Storage and Application Lab](https://storage.hust.edu.cn/), Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology (HUST) in 2024 and 2016, respectively.
 I was a visiting Ph.D. student (advised by [Prof. Jizhong Han](https://people.ucas.ac.cn/~hjz)) at the Institute of Information Engineering, Chinese Academy of Sciences (CAS) from 2017-2019.
@@ -41,7 +41,7 @@ My research about failure prediction for storage drives, as one of the key innov
 
 * 202x.07: 🎉🎉🎉
 
-# 📝 Publications
+# 📚 Publications
 
 **Papers:**
 
@@ -55,10 +55,12 @@ My research about failure prediction for storage drives, as one of the key innov
 * **[ICCD]** Yanwen Xie, Dan Feng, Fang Wang, **Xinyan Zhang**, Jizhong Han, Xuehai Tang. "OME: An Optimized Modeling Engine for Disk Failure Prediction in Heterogeneous Datacenter". In: Proceedings of the IEEE 36th International Conference on Computer Design (ICCD), 2018.
 * **[ICCD]** Gaoxiang Xu, Zhipeng Tan, Dan Feng, Yifeng Zhu, **Xinyan Zhang** and Jie Xu. "Cap: Exploiting Data Correlations to Improve the Performance and Endurance of SSD RAID". In: Proceedings of the IEEE 36th International Conference on Computer Design (ICCD), 2018.
 * **[GPC]** **Xinyan Zhang**, Zhipeng Tan, Meng Li, Yingfei Zheng, and Wei Zhou. "ZooKeeper+: The Optimization of Election Algorithm in Complex Network Circumstance". In: Proceedings of the 11th International Conference in Green, Pervasive, and Cloud Computing (GPC), 2016.
+
+<!--
 * **[CTD]** Baoshan Luo, **Xinyan Zhang**, Xu Wang, and Zhipeng Tan. "Data migration strategy for Hybrid storage". Computer Technology and Development, 2016.
 * **[IJECE]** **Xinyan Zhang**, Zhipeng Tan, and Shan Fan. "NSBS: Design of a Network Storage Backup System". International Journal of Electronics and Communication Engineering, 2015.
 * **[DCABES]** Baoshan Luo, **Xinyan Zhang**, and Zhipeng Tan. Metadata Namespace Management of Distributed File System. In: Proceedings of the 14th International Symposium on Distributed Computing and Applications for Business Engineering and Science (DCABES), 2015.
-
+-->
 
 <!--
 Chinese Invention Patents:
