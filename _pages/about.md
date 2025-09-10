@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -18,32 +17,34 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨🏻‍💻 About Me
-I received my Ph.D. degree (advised by [Prof. Dan Feng](https://hustdfeng.github.io/)) and M.S degree (advised by [Prof. ZhiPeng Tan](https://msata-lab.github.io/)) in Computer Architecture from the [Data Storage and Application Lab](https://storage.hust.edu.cn/), Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology (HUST) in 2024 and 2016, respectively. 
-I was a visiting Ph.D. student (advised by [Prof. Jizhong Han](https://people.ucas.ac.cn/~hjz)) at the Institute of Information Engineering, Chinese Academy of Sciences (CAS) from 2017-2019. 
-I received the B.S. degree in Software Engineering from the School of Computer, Southwest Minzu University (SMU) in 2012.  
 
-My research interests encompass the following areas: **system reliability, predictive maintenance of storage drives, storage systems, and distributed systems**. 
-I have published 10+ refereed papers in major conferences and journals in the field of computer systems and architecture, including FGCS, JCST, DATE, ICCD, ICPP, and MSST, etc. 
+I received my Ph.D. degree (advised by [Prof. Dan Feng](https://hustdfeng.github.io/)) and M.S degree (advised by [Prof. ZhiPeng Tan](https://msata-lab.github.io/)) in Computer Architecture from the [Data Storage and Application Lab](https://storage.hust.edu.cn/), Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology (HUST) in 2024 and 2016, respectively.
+I was a visiting Ph.D. student (advised by [Prof. Jizhong Han](https://people.ucas.ac.cn/~hjz)) at the Institute of Information Engineering, Chinese Academy of Sciences (CAS) from 2017-2019.
+I received the B.S. degree in Software Engineering from the School of Computer, Southwest Minzu University (SMU) in 2012.
 
-I have participated in multiple national-level projects, including the Science Fund for Creative Research Groups and the Key Program of the National Natural Science Foundation of China (NSFC), the National Defense Pre-Research Foundation of China, the Chinese Defence Advance Research Program of Science and Technology, China, and the major project of the National Social Science Fund of China. 
+My research interests encompass the following areas: **system reliability, predictive maintenance of storage drives, storage systems, and distributed systems**.
+I have published 10+ refereed papers in major conferences and journals in the field of computer systems and architecture, including FGCS, JCST, DATE, ICCD, ICPP, and MSST, etc.
+
+I have participated in multiple national-level projects, including the Science Fund for Creative Research Groups and the Key Program of the National Natural Science Foundation of China (NSFC), the National Defense Pre-Research Foundation of China, the Chinese Defence Advance Research Program of Science and Technology, China, and the major project of the National Social Science Fund of China.
 And I contributed to the drafting of GB/T 37939-2019 "Information Security Technology - Security Techniques Requirements for Network Storage".
 
-As a core technical member, I have also participated in 10+ research projects collaborating with important government agencies and enterprises such as Office of the Central Cyberspace Administration Affairs Commission, Huawei, Honor, Hikvision, and China Shipbuilding Industry Corporation. 
+As a core technical member, I have also participated in 10+ research projects collaborating with important government agencies and enterprises such as Office of the Central Cyberspace Administration Affairs Commission, Huawei, Honor, Hikvision, and China Shipbuilding Industry Corporation.
 
-Meanwhile, I have participated in the application of 10+ Chinese invention patents, all of which have been granted. 
-As the key technical personnel, the successful commercialization of two patents ([1](https://iat.hust.edu.cn/info/1012/2635.htm),[2](https://iat.hust.edu.cn/info/1012/3041.htm)) outcomes related to disk failure prediction was achieved, generating economic benefits exceeding one million yuan. 
+Meanwhile, I have participated in the application of 10+ Chinese invention patents, all of which have been granted.
+As the key technical personnel, the successful commercialization of two patents ([1](https://iat.hust.edu.cn/info/1012/2635.htm),[2](https://iat.hust.edu.cn/info/1012/3041.htm)) outcomes related to disk failure prediction was achieved, generating economic benefits exceeding one million yuan.
 
 My research about failure prediction for storage drives, as one of the key innovations in the project "Key Technologies and Applications for Efficient and Reliable Massive Data Storage Systems", was awarded the Second Grade of the National Science and Technology Progress Award in 2023.
 
-
 # 🔥 News
-<!-- * 202x.09: 🎉🎉 One paper gets accepted in xxx'24. -->
-* 202x.07: 🎉🎉🎉 
 
+<!-- * 202x.09: 🎉🎉 One paper gets accepted in xxx'24. -->
+
+* 202x.07: 🎉🎉🎉
 
 # 📝 Publications
 
 **Papers:**
+
 * **[JCST]** **Xinyan Zhang**, Dan Feng, Zhipeng Tan, YanWen Xie, ShaoFeng Zhao, and YaYuan Wei. "LWCM: A Lookahead-Window Constrained Model for Disk Failure  Prediction in Large Data Centers". Journal of Computer Science and Technology (JCST), 2025.
 * **[DATE]** **Xinyan Zhang**, Zhipeng Tan, Dan Feng, Qiang He, Ju Wan, Hao Jiang, Ji Zhang, Lihua Yang, and Wenjie Qi. "Multidimensional Features Helping Predict Failures in Production SSD-Based Consumer Storage Systems". In: Proceedings of Design, Automation & Test in Europe Conference Exhibition (DATE), 2023.
 * **[DATE]** **Xinyan Zhang**, Kai Shan, Zhipeng Tan, and Dan Feng. "CSLE: A Cost-sensitive Learning Engine for Disk Failure Prediction in Large Data Centers". In: Proceedings of Design, Automation & Test in Europe Conference Exhibition (DATE), 2022.
@@ -59,6 +60,7 @@ My research about failure prediction for storage drives, as one of the key innov
 * **[DCABES]** Baoshan Luo, **Xinyan Zhang**, and Zhipeng Tan. Metadata Namespace Management of Distributed File System. In: Proceedings of the 14th International Symposium on Distributed Computing and Applications for Business Engineering and Science (DCABES), 2015.
 
 **Chinese Invention Patents:**
+
 * **ZL202311553974.8** Zhipeng Tan, Xuanzhi Wang, Dan Feng, Shikai Tan, **Xinyan Zhang**, jinlong Wang, Jin Zhang. 2023.
 * **ZL202211603100.4** Zhipeng Tan, Dan Feng, **Xinyan Zhang**, Ju Wan, Cong Liu. 2022.
 * **ZL202110943053.7** Zhipeng Tan, Dan Feng, Ju wan, **Xinyan Zhang**. 2021.
@@ -72,6 +74,7 @@ My research about failure prediction for storage drives, as one of the key innov
 * **ZL201611032887.8** Zhipeng Tan, Dan Feng, Wei Zhou, Fang Wan, Gaoxiang Xu, **Xinyan Zhang**. 2016.
 
 **Software Copyright:**
+
 * **2019SR0377744** Dan Feng, Fan Wang, Yanwen Xie, **Xinyan Zhang**. 2019.
 
 # 🎖 Honors and Awards
@@ -86,30 +89,33 @@ My research about failure prediction for storage drives, as one of the key innov
 # 🌠 Professional Services
 
 **PC Member at Conferences:**
-* IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA) 2024
+
+* IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA) 2024 and 2025
+* The 18th IEEE International Conference on Security, Privacy and Anonymity in Computation, Communication and Storage (SpaCCS) 2025
 * International Conference on Intelligent Computing (ICIC) 2024 and 2023
 
 **Reviewer for Journals:**
+
 * Journal of Hardware and Systems Security (HaSS)
 * IEEE Transactions on Reliability
 * Frontiers of Information Technology & Electronic Engineering (FITEE) (shadow)
 
 **Teaching Assistant:**
+
 * Computer System & Data Structure Practice, SES@HUST, 2016 - 2017
 
 **Volunteer Service**
+
 * Chair of the Student Union of Data Storage and Application Lab, 2016 - 2018
 
-
 # 💬 Talks
- 
+
 |04/2023|"Multidimensional Features Helping Predict Failures in Production SSD-Based Consumer Storage Systems". Paper Presentation in the 2023 Design, Automation & Test in Europe Conference Exhibition (DATE'23). |Belgium, Antwerp
 |03/2022|"CSLE: A Cost-sensitive Learning Engine for Disk Failure Prediction in Large Data Centers". Paper Presentation in the 2022 Design, Automation & Test in Europe Conference Exhibition (DATE'22). |Belgium, Antwerp (Virtual Meeting)
 |05/2016|"ZooKeeper+: The Optimization of Election Algorithm in Complex Network Circumstance". Paper Presentation in the 11th International Conference in Green, Pervasive, and Cloud Computing (GPC 2016). |Xi'an, China
 |11/2015|"GroupDRM: Group-Based Dynamic Resource Management Model in Wireless Network". Paper Presentation in the 15th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2015). |Zhangjiajie, China
 |08/2015|"Metadata Namespace Management of Distributed File System". Paper Presentation in the 14th International Symposium on Distributed Computing and Applications for Business Engineering and Science (DCABES 2015). |Wuxi, China
 
-<!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=pd9i878wd5hSvDEbYzOxFOA_A08c-cdrBe1NccL-_ys"></script> -->
+<!-- <script type="text/javascript" id="clstr_globe" src="https://clustrmaps.com/globe.js?d=pd9i878wd5hSvDEbYzOxFOA_A08c-cdrBe1NccL-_ys"></script> -->
 
 <!-- # 💻 Internships -->
-
